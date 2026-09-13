@@ -43,7 +43,7 @@ export const DATA = {
       name: "Ana Zahratul Firdausi",
       title: "AI/ML Engineer & Data Scientist",
       image:
-        "/images/profile/zahra resmi .jpeg",
+        "/images/profile/zahra farewell.jpeg",
       description: [
         "I'm an Informatics Engineering student at Universitas Brawijaya, focused on AI/ML Engineering and MLOps. I build end-to-end machine learning systems from data pipelines and model training to experiment tracking, CI/CD automation, and production monitoring.",
         "My work spans classification, clustering, and retrieval-based approaches using Random Forest, K-Means, and RAG pipelines (LangChain, FAISS). I'm hands-on with MLflow, DVC, Docker, and GitHub Actions for building reliable, production-ready ML systems.",
